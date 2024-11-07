@@ -1,0 +1,3 @@
+for datasets pls visit this link and download https://www.kaggle.com/datasets/dasmehdixtr/drone-dataset-uav/data
+
+because this datasets is more 25 mb GitHub do not support 
